@@ -1,7 +1,7 @@
 
 # Great UniHack 2019
 ## Project: MOODIFY
-Using footage from the Parrot Bebop 2 drone and applying Microsoft Azure API for Facial Recognition we determine the mood of a person or group of people and play music according to dominant mood.
+Using a footage, captured with the Parrot Bebop 2 drone, we apply Microsoft Azure API to perform a Facial Recognition, which determines the mood of a person or group of people, and ,according to the most dominant mood, we play music form appropriate playlist.
 
 ## Team Members:
 * Ankit Vyas
